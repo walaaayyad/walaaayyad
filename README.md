@@ -63,12 +63,14 @@ Built with **React**, **Vite**, **React-Bootstrap**, **AOS animation**, and supp
 
 ## 💡 A Bit About Me
 
-- 🔭 I’m currently working on adding more tools and categories to my developer tools project
-- 🌱 I’m currently learning more about React.js
-- 👯 I’m looking to collaborate on open-source projects focused on web performance or UI/UX
-- 💬 Ask me about front-end development, multilingual websites, or UI design tools
-- 📫 How to reach me: `walaa_ayyad7@yahoo.com` 
-- ⚡ Fun fact: I love organizing resources and creating developer toolkits
+- 🎯 Front-end developer focused on building scalable, eye-catching web applications.
+- 👩‍💻 Specialized in crafting fast, responsive, and accessible interfaces using React and modern JavaScript.
+- 🧠 Passionate about user experience, clean code, and performance optimization.
+- 🎨 I love transforming complex problems into intuitive and beautiful UIs.
+- 🛠 Enjoy tackling UI challenges and refining apps across devices and browsers.
+- 🌱 Constantly learning — currently diving deeper into React and exploring component-based design systems.
+- 🤝 Always open to collaborating on meaningful projects and open-source contributions.
+- 📫 Reach me at: walaa_ayyad7@yahoo.com
 
 ---
 
