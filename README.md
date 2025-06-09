@@ -18,9 +18,28 @@ A curated collection of **free tools for web developers**, including:
 
 Built with **React**, **Vite**, **React-Bootstrap**, **AOS animation**, and supports **Arabic (RTL)** using `react-i18next`.
 
-📸 *Here’s a screenshot of my top repositories:*
+## 📸 My Top Projects
 
-![Top Projects](./top-projects.png)
+Here are some of my featured repositories:
+
+### Web Developer Tools
+[![Web Developer Tools](repoImages/repo1.png)](https://github.com/walaaayyad/webDeveloperTools)
+
+### Web Vision Hub
+![Web Vision Hub](repoImages/repo2.png)
+
+### Egyptian Coders
+![Egyptian Coders](repoImages/repo3.png)
+
+### Freelancers Contest
+![Freelancers Contest](repoImages/repo4.png)
+
+### Freelancers Contest
+![Freelancers Contest](repoImages/repo5.png)
+
+### Candles
+![Candles](repoImages/devIcons.png)
+
 
 ---
 
