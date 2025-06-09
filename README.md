@@ -23,7 +23,7 @@ Built with **React**, **Vite**, **React-Bootstrap**, **AOS animation**, and supp
 <table>
   <tr>
     <td>
-      <a href="[https://github.com/walaaayyad/webDeveloperTools](https://walaaayyad.github.io/webDeveloperTools/)">
+      <a href="https://walaaayyad.github.io/webDeveloperTools/">
         <img src="repoImages/repo1.png" alt="Web Developer Tools" width="250" />
       </a>
     </td>
