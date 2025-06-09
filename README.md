@@ -28,29 +28,29 @@ Built with **React**, **Vite**, **React-Bootstrap**, **AOS animation**, and supp
       </a>
     </td>
     <td>
-      <a href="https://github.com/walaaayyad/web-vision-hub">
+      <a href="https://walaaayyad.github.io/webVisionHub/">
         <img src="repoImages/repo2.png" alt="Web Vision Hub" width="250" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/walaaayyad/egyptian-coders">
+      <a href="https://walaaayyad.github.io/egyptianCoders/">
         <img src="repoImages/repo3.png" alt="Egyptian Coders" width="250" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/walaaayyad/freelancers-contest">
+      <a href="https://walaaayyad.github.io/readNotify-freelancerContest2/">
         <img src="repoImages/repo4.png" alt="Freelancers Contest" width="250" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/walaaayyad/freelancers-dashboard">
+      <a href="https://walaaayyad.github.io/readNotify-freelanceContest/">
         <img src="repoImages/repo5.png" alt="Freelancers Dashboard" width="250" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/walaaayyad/dev-icons">
+      <a href="https://walaaayyad.github.io/candles_Bootstrap5/">
         <img src="repoImages/repo6.png" alt="Dev Icons" width="250" />
       </a>
     </td>
