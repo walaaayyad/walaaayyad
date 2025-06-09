@@ -20,25 +20,43 @@ Built with **React**, **Vite**, **React-Bootstrap**, **AOS animation**, and supp
 
 ## 📸 My Top Projects
 
-Here are some of my featured repositories:
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/walaaayyad/webDeveloperTools">
+        <img src="repoImages/repo1.png" alt="Web Developer Tools" width="250" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/walaaayyad/web-vision-hub">
+        <img src="repoImages/repo2.png" alt="Web Vision Hub" width="250" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/walaaayyad/egyptian-coders">
+        <img src="repoImages/repo3.png" alt="Egyptian Coders" width="250" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/walaaayyad/freelancers-contest">
+        <img src="repoImages/repo4.png" alt="Freelancers Contest" width="250" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/walaaayyad/freelancers-dashboard">
+        <img src="repoImages/repo5.png" alt="Freelancers Dashboard" width="250" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/walaaayyad/dev-icons">
+        <img src="repoImages/repo6.png" alt="Dev Icons" width="250" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### Web Developer Tools
-[![Web Developer Tools](repoImages/repo1.png)](https://github.com/walaaayyad/webDeveloperTools)
-
-### Web Vision Hub
-![Web Vision Hub](repoImages/repo2.png)
-
-### Egyptian Coders
-![Egyptian Coders](repoImages/repo3.png)
-
-### Freelancers Contest
-![Freelancers Contest](repoImages/repo4.png)
-
-### Freelancers Contest
-![Freelancers Contest](repoImages/repo5.png)
-
-### Candles
-![Candles](repoImages/devIcons.png)
 
 
 ---
@@ -54,10 +72,4 @@ Here are some of my featured repositories:
 
 ---
 
-## 📈 GitHub Stats
 
-<!--
-![Walaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=walaaayyad&show_icons=true&theme=radical)
--->
-
----
