@@ -18,9 +18,46 @@ A curated collection of **free tools for web developers**, including:
 
 Built with **React**, **Vite**, **React-Bootstrap**, **AOS animation**, and supports **Arabic (RTL)** using `react-i18next`.
 
-📸 *Here’s a screenshot of my top repositories:*
+## 📸 My Top Projects
 
-![Top Projects](./top-projects.png)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/walaaayyad/webDeveloperTools">
+        <img src="repoImages/repo1.png" alt="Web Developer Tools" width="250" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/walaaayyad/web-vision-hub">
+        <img src="repoImages/repo2.png" alt="Web Vision Hub" width="250" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/walaaayyad/egyptian-coders">
+        <img src="repoImages/repo3.png" alt="Egyptian Coders" width="250" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/walaaayyad/freelancers-contest">
+        <img src="repoImages/repo4.png" alt="Freelancers Contest" width="250" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/walaaayyad/freelancers-dashboard">
+        <img src="repoImages/repo5.png" alt="Freelancers Dashboard" width="250" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/walaaayyad/dev-icons">
+        <img src="repoImages/repo6.png" alt="Dev Icons" width="250" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
@@ -35,10 +72,4 @@ Built with **React**, **Vite**, **React-Bootstrap**, **AOS animation**, and supp
 
 ---
 
-## 📈 GitHub Stats
 
-<!--
-![Walaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=walaaayyad&show_icons=true&theme=radical)
--->
-
----
